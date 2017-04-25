@@ -1,2 +1,6 @@
+module Main where
+
+import Ch2
+
 main :: IO ()
-main = putStrLn "Test suite not yet implemented"
+main = tests
